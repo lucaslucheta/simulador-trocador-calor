@@ -23,8 +23,7 @@ Aplicativo web interativo desenvolvido em Python para o cálculo e dimensionamen
 
 1. **Link pelo Streamlit:**
    ```bash
-   [git clone [https://github.com/SEU-USUARIO/simulador-trocador-calor.git](https://github.com/SEU-USUARIO/simulador-trocador-calor.git)
-   cd simulador-trocador-calor](https://simulador-trocador-calor.streamlit.app/)
+   https://simulador-trocador-calor.streamlit.app/
 
 ---
 
