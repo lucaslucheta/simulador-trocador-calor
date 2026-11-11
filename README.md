@@ -21,10 +21,8 @@ Aplicativo web interativo desenvolvido em Python para o cálculo e dimensionamen
 
 ## 📦 Como Rodar o Projeto
 
-1. **Link pelo Streamlit:**
-   ```bash
-   https://simulador-trocador-calor.streamlit.app/
-
+1. **Link pelo Streamlit:** [simulador-trocador-calor.streamlit.app](https://simulador-trocador-calor.streamlit.app/)
+ 
 ---
 
 ## 📐 Fundamentos de Engenharia Aplicados
