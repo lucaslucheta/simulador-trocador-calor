@@ -27,3 +27,32 @@ Siga os passos abaixo para clonar e executar a aplicação na sua máquina:
    ```bash
    git clone [https://github.com/SEU-USUARIO/simulador-trocador-calor.git](https://github.com/SEU-USUARIO/simulador-trocador-calor.git)
    cd simulador-trocador-calor
+
+---
+
+## 📐 Fundamentos de Engenharia Aplicados
+
+O método $\varepsilon$-NTU é amplamente utilizado quando a temperatura de saída dos fluidos é desconhecida. As principais equações implementadas no código seguem a formulação clássica de transferência de calor:
+
+* **Razão de Capacidades Térmicas:** 
+  $$C_r = \frac{C_{min}}{C_{max}}$$
+
+* **Número de Unidades de Transferência:** 
+  $$NTU = \frac{U \cdot A}{C_{min}}$$
+
+* **Efetividade para Contracorrente:** 
+  $$\varepsilon = \frac{1 - \exp[-NTU(1 - C_r)]}{1 - C_r \exp[-NTU(1 - C_r)]}$$
+
+---
+
+## 🤖 Notas de Desenvolvimento e Apoio Tecnológico
+
+Este projeto foi concebido, estruturado e validado por **Lucas Reis Lucheta**. Durante o processo de desenvolvimento e programação da interface em Streamlit, foram utilizadas ferramentas de Inteligência Artificial (como o **Gemini**) como suporte técnico de mentoria, estruturação de código e boas práticas de desenvolvimento.
+
+---
+
+## 👨‍💻 Autor
+
+Desenvolvido por **Lucas Reis Lucheta**  
+Estudante de Engenharia Química | EEL-USP  
+[LinkedIn](www.linkedin.com/in/lucas-reis-lucheta) | [GitHub](https://github.com/lucaslucheta)
