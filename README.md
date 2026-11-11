@@ -19,14 +19,12 @@ Aplicativo web interativo desenvolvido em Python para o cálculo e dimensionamen
 
 ---
 
-## 📦 Como Rodar o Projeto Localmente
+## 📦 Como Rodar o Projeto
 
-Siga os passos abaixo para clonar e executar a aplicação na sua máquina:
-
-1. **Clone o repositório:**
+1. **Link pelo Streamlit:**
    ```bash
-   git clone [https://github.com/SEU-USUARIO/simulador-trocador-calor.git](https://github.com/SEU-USUARIO/simulador-trocador-calor.git)
-   cd simulador-trocador-calor
+   [git clone [https://github.com/SEU-USUARIO/simulador-trocador-calor.git](https://github.com/SEU-USUARIO/simulador-trocador-calor.git)
+   cd simulador-trocador-calor](https://simulador-trocador-calor.streamlit.app/)
 
 ---
 
