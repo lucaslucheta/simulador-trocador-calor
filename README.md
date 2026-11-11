@@ -55,4 +55,4 @@ Este projeto foi concebido, estruturado e validado por **Lucas Reis Lucheta**. D
 
 Desenvolvido por **Lucas Reis Lucheta**  
 Estudante de Engenharia Química | EEL-USP  
-[LinkedIn](www.linkedin.com/in/lucas-reis-lucheta) | [GitHub](https://github.com/lucaslucheta)
+[LinkedIn](https://www.linkedin.com/in/lucas-reis-lucheta) | [GitHub](https://github.com/lucaslucheta)
